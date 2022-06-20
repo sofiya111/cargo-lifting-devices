@@ -1,0 +1,6 @@
+C:\Users\Sonya\Documents\KPO\CargoLiftingDevices\CargoLiftingDevices\bin\Debug\CargoLiftingDevices.dll
+C:\Users\Sonya\Documents\KPO\CargoLiftingDevices\CargoLiftingDevices\bin\Debug\CargoLiftingDevices.pdb
+C:\Users\Sonya\Documents\KPO\CargoLiftingDevices\CargoLiftingDevices\obj\Debug\CargoLiftingDevices.csproj.CoreCompileInputs.cache
+C:\Users\Sonya\Documents\KPO\CargoLiftingDevices\CargoLiftingDevices\obj\Debug\CargoLiftingDevices.dll
+C:\Users\Sonya\Documents\KPO\CargoLiftingDevices\CargoLiftingDevices\obj\Debug\CargoLiftingDevices.pdb
+C:\Users\Sonya\Documents\KPO\CargoLiftingDevices\CargoLiftingDevices\obj\Debug\CargoLiftingDevices.csprojAssemblyReference.cache
